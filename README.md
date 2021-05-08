@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/kingjamesx/3-column-card)
-- Live Site URL:(3-column-card-fm.netlify.app)
+- Live Site URL:(https://3-column-card-fm.netlify.app)
 
 
 ### Built with
